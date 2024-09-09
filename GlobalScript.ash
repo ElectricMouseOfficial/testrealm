@@ -4,3 +4,5 @@
 // scripts.
 
 import function GiveScoreWithSound(int points);
+
+import function gotoandpickup(Object *poimush);
