@@ -2984,6 +2984,11 @@ stop]]></Script>
           <Name>numPoimush</Name>
           <Type>int</Type>
         </GlobalVariable>
+        <GlobalVariable>
+          <DefaultValue>false</DefaultValue>
+          <Name>isDragging</Name>
+          <Type>String</Type>
+        </GlobalVariable>
       </Variables>
     </GlobalVariables>
     <Sprites>
